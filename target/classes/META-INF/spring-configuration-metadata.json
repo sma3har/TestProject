@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "author",
+      "type": "com.example.demo.config.AuthorConfig",
+      "sourceType": "com.example.demo.config.AuthorConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "author.age",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.config.AuthorConfig"
+    },
+    {
+      "name": "author.name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.config.AuthorConfig"
+    },
+    {
+      "name": "author.sex",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.config.AuthorConfig"
+    }
+  ],
+  "hints": []
+}

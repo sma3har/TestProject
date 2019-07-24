@@ -1,0 +1,12 @@
+server:
+  port: 9090
+  servlet:
+    context-path: /springboot
+author:
+  name: 于正东
+  sex: 男
+  age: 18
+
+spring:
+  profiles:
+    active: dev
