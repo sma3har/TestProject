@@ -81,6 +81,7 @@
     </dependencies>
     <!--可以将应用打包成一个可执行的jar包-->
     <build>
+        <defaultGoal>compile</defaultGoal>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
