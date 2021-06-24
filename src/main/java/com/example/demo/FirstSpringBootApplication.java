@@ -9,6 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class FirstSpringBootApplication {
 
     public static void main(String[] args) {
+        System.out.println("new comment");
         SpringApplication.run(FirstSpringBootApplication.class, args);
     }
 
